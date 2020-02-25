@@ -8,3 +8,6 @@ Download from https://touringplans.com/walt-disney-world/crowd-calendar#DataSets
 - Pandas
 - Numpy
 - Matplotlib
+
+## Goal
+Show how a new land in a park changes the wait times for older rides.
