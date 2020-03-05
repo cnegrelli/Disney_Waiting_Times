@@ -2,7 +2,7 @@
 This is a data science project that was made to apply for The Data Incubator Fellowship.
 
 ## Data
-Download from https://touringplans.com/walt-disney-world/crowd-calendar#DataSets
+Downloaded from https://touringplans.com/walt-disney-world/crowd-calendar#DataSets
 
 ## Libraries used
 - Pandas
